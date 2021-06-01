@@ -1,0 +1,40 @@
+.teach{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.teach-con{
+  display: flex;
+  flex-direction: column;
+  border: solid 2px white;
+  background-color: white;
+  width: 25%;
+  padding: 20px;
+  height:75vh;
+  justify-content: center;
+}
+
+.teach-form{
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+label{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+select{
+  height: 25px;
+}
+
+.btn-t{
+  margin-top: 15px;
+}
+input{
+  height: 25px;
+}
